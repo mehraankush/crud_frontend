@@ -1,0 +1,54 @@
+
+.textLabel{
+    font-family: 'Courier New', Courier, monospace !important;
+}
+
+.app_home{
+    background-color: rgb(30, 29, 29);
+    height: 100vh;
+    color: white;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.app_btn button{
+   padding: 1rem;
+   cursor: pointer;
+   font-weight: 600;
+   outline: none;
+   border: none;
+   border-radius: 4px;
+   transition: all 0.5s ease-in-out;
+}
+.app_btn button:hover{
+   background-color: black;
+   color: white;
+}
+
+.app_allusers{
+    display: flex;
+    justify-content: center;
+}
+
+.app_usersContainer{
+    border: 5px solid black;
+    min-width: 1024px;
+    height: 100%;
+}
+.app_usersContainer table{
+     width: 100%;
+}
+.app_usersContainer table thead{
+   padding: 5px;
+}
+.app_usersContainer table thead tr{
+     display: flex;
+     justify-content: space-between;
+     background-color: rgb(42, 41, 41);
+}
+.app_usersContainer table thead tr td{
+    padding: 5px;
+    border-radius: 2px;
+    color: white;
+}
