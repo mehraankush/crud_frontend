@@ -1,6 +1,6 @@
-# Your App Name
+# PERFORM CRUD
 
-Welcome to ![CRUD](https://crudmehra.netlify.app/) This web application is built using React.js for the frontend, Node.js for the backend, and MongoDB for database operations. It enables seamless CRUD (Create, Read, Update, Delete) operations.
+Welcome to !(CRUD)(https://crudmehra.netlify.app/) This web application is built using React.js for the frontend, Node.js for the backend, and MongoDB for database operations. It enables seamless CRUD (Create, Read, Update, Delete) operations.
 
 ## Features
 
@@ -28,5 +28,7 @@ Before you begin, ensure you have met the following requirements:
 - Code editor (e.g., Visual Studio Code) for development.
 
 ## Getting Started
-
+![IMAGE](https://github.com/mehraankush/crud_frontend/blob/main/public/image1.png)
+![IMAGE](https://github.com/mehraankush/crud_frontend/blob/main/public/image2.png)
+![IMAGE](https://github.com/mehraankush/crud_frontend/blob/main/public/image3.png)
 
